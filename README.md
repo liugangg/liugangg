@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @liugangg
-- 👀 I’m interested in biochemistry
-- 🌱 I’m currently learning autodocking 
-- 💞️ I’m looking to collaborate on bioinformation
-- 📫 How to reach me Lgg1931@outlook.com
+### Hi, I'm Ganggang Liu 👋
 
-<!---
-liugangg/liugangg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**PhD Candidate** @ School of Life Sciences, Suzhou Medical College, Soochow University 🇨🇳
+
+I build autonomous AI agent systems that solve real problems in computational biology and drug discovery.
+
+---
+
+🔬 What I Do
+→ LLM-agent platforms orchestrating 32 bio tools for protein design & ADC prioritization
+
+🛠️ Tech Stack
+→ AlphaFold 3, RFdiffusion, ProteinMPNN, vLLM, Docker, FastAPI
+
+📄 Paper
+→ Nature Communications (under review, 2026)
+
+🎯 Research
+→ AI Agents for Science · Computational Protein Design · Drug Discovery Automation
+
+📫 Contact
+→ ganggliu@oihtech.com · ggliu@stu.suda.edu.cn

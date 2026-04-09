@@ -13,7 +13,8 @@ I build autonomous AI agent systems that solve real problems in computational bi
 → AlphaFold 3, RFdiffusion, ProteinMPNN, vLLM, Docker, FastAPI
 
 📄 Paper
-→ Nature Communications (under review, 2026)
+- **Liu, G.**† et al. Endosomal protein DENND10/FAM45A integrates extracellular vesicle release with cancer cell migration. *BMC Biology* 22, 154 (2024). [DOI](https://doi.org/10.1186/s12915-024-01948-4) (†Co-first author)
+→ Nature Machine Intelligence  (under review, 2026)
 
 🎯 Research
 → AI Agents for Science · Computational Protein Design · Drug Discovery Automation
